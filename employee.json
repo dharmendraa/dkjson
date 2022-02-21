@@ -5,7 +5,7 @@
     "lastName": "Jackon",
     "gender": "man",
     "age": 24,
-    "emailAddress": "racks.jacson@learningcontainer.com"
+    "emailAddress": "racks.jacson@learningcontainer.com",
     "address": {
         "streetAddress": "126",
         "city": "San Jone",
@@ -15,14 +15,14 @@
     "phoneNumbers": [
         { "type": "home", "number": "7383627627" }
     ]
-},
+  },
   {
     "empId": 2,
     "firstName": "Krish",
     "lastName": "Lee",
     "gender": "man",
     "age": 28,
-    "emailAddress": "krish.lee@learningcontainer.com"
+    "emailAddress": "krish.lee@learningcontainer.com",
     "address": {
         "streetAddress": "123",
         "city": "New York",
